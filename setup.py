@@ -8,9 +8,9 @@ USER_NAME = "Rohanbagulwar"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}",
-    version="0.0.4",
-    author=['Rohan Bagulwar','ketan gangal'],
-    author_email=["rohanbagulwarrb@gmail.com","ketangangal98@gmail.com"],
+    version="0.0.5",
+    author='Rohan Bagulwar',
+    author_email="rohanbagulwarrb@gmail.com",
     description="its an implimentation of automatic regression",
     long_description=long_description,
     long_description_content_type="text/markdown",
