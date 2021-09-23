@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 PROJECT_NAME = "MLAutoRegressor"
-USER_NAME_own = "Rohanbagulwar"
+USER_NAME = "Rohanbagulwar"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}",
@@ -14,9 +14,9 @@ setuptools.setup(
     description="its an implimentation of automatic regression",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=f"https://github.com/{USER_NAME_own}/{PROJECT_NAME}",
+    url=f"https://github.com/{USER_NAME}/{PROJECT_NAME}",
     project_urls={
-    "Bug Tracker": f"https://github.com/{USER_NAME_own}/{PROJECT_NAME}/issues",
+    "Bug Tracker": f"https://github.com/{USER_NAME}/{PROJECT_NAME}/issues",
     },
     classifiers=[
     "Programming Language :: Python :: 3",
