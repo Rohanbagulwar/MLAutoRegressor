@@ -7,7 +7,7 @@ PROJECT_NAME = "MLAutoRegressor"
 USER_NAME = "Rohanbagulwar"
 
 setuptools.setup(
-    name=f"{PROJECT_NAME}-{USER_NAME}",
+    name=f"{PROJECT_NAME}",
     version="0.0.2",
     author=USER_NAME,
     author_email="rohanbagulwarrb@gmail.com",
